@@ -1,3 +1,13 @@
 [submodule "hugo-strata-theme"]
 	path = hugo-strata-theme
 	url = https://github.com/digitalcraftsman/hugo-strata-theme.git
+[submodule "themes/themes/ananke"]
+	path = themes/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "themes/castanet"]
+	path = themes/castanet
+	url = https://github.com/mattstratton/castanet.git
+[submodule "public"]
+	path = public
+	url = git@github.com:gforster/gforster.github.io.git
+	branch = master
