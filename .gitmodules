@@ -11,3 +11,6 @@
 	path = public
 	url = git@github.com:gforster/gforster.github.io.git
 	branch = master
+[submodule "themes/bootstrap"]
+	path = themes/bootstrap
+	url = https://github.com/alanorth/hugo-theme-bootstrap4-blog.git
